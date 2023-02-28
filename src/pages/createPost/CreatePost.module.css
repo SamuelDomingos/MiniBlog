@@ -1,0 +1,16 @@
+.creatPost{
+    text-align: center;
+}
+
+.creatPost h2{
+    font-size: 2.2em;
+}
+
+.creatPost p{
+    color: #aaa;
+    margin-bottom: 2em;
+}
+
+.creatPost textarea{
+    max-width: 100%;
+}
